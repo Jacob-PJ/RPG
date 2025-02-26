@@ -1,3 +1,1 @@
-https://youtu.be/Zj1NwIlJ70c
-
-Ett simpelt pixe grafikt RPG spel utväcklat med C# och ramväerket Mono Game för mitt gymnasiearbete. Allt pixelart gjorde jag även själv medhjälp av programmet aseprite. Tyvär har jag itne tillgång till källkoden längre men resultatet finns uppladat på youtube.
+A simple pixel art RPG game developed with C# and the MonoGame framework for my high school project. I also created all the pixel art myself using the program Aseprite. Unfortunately, I no longer have access to the source code, but the final result is uploaded on YouTube: https://youtu.be/Zj1NwIlJ70c
